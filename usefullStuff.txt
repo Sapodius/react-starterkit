@@ -1,0 +1,3 @@
+For translation or keeping button label or error code must use that:
+
+https://www.npmjs.com/package/i18n-nodejs
