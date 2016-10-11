@@ -5,6 +5,7 @@ import App from './pages/app.jsx';
 import Home from './pages/home.jsx';
 import Info from './pages/info.jsx';
 import NotFound from './pages/notFound.jsx';
+import Offer from './pages/offer.jsx';
 
 const historyOptions = {
   queryKey : false
@@ -16,6 +17,7 @@ const routes = (
       <IndexRoute component={ Home }/>
       <Route path='info' component={ Info } />
       <Route path='home' component={ Home } />
+      <Route path='offer' component={ Offer } />
       <Route path='*' component={NotFound}/>
     </Route>
   </Router>

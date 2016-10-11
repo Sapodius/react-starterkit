@@ -12,6 +12,9 @@ const Header = (props) => {
         <div className="nav-item">
           <Link to="info">Info</Link>
         </div>
+          <div className="nav-item">
+              <Link to="offer">Offer</Link>
+          </div>
       </nav>
     </header>
   )

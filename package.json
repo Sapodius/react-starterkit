@@ -37,6 +37,7 @@
     "gulp-watch": "^4.3.5",
     "gulp-webpack": "^1.5.0",
     "jest-cli": "^0.7.1",
+    "jsx-control-statements": "^3.1.5",
     "object-assign": "^4.0.1",
     "orchestrator": "^0.3.7",
     "react-addons-test-utils": "^0.14.2",
@@ -44,6 +45,7 @@
   },
   "dependencies": {
     "history": "^1.13.0",
+    "i18n-nodejs": "^2.0.0",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
     "react-router": "^2.6.1",

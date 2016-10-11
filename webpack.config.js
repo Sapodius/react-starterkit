@@ -26,4 +26,4 @@ module.exports.getConfig = function(type) {
   }
 
   return config;
-}
+};

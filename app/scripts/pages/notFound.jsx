@@ -7,6 +7,6 @@ const NotFound = (props) => {
       Route not found :/
     </div>
   );
-}
+};
 
 export default NotFound;
